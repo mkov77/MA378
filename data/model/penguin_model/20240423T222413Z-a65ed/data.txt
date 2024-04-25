@@ -1,9 +1,0 @@
-api_version: 1
-created: 20240423T222413Z
-description: null
-file: penguin_model.pkl
-file_size: 625
-pin_hash: a65ed253f0558236
-title: 'penguin_model: a pinned str object'
-type: file
-user: {}
